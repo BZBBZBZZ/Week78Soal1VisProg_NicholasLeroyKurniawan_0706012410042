@@ -1,6 +1,6 @@
 package com.example.week78soal1.data.repository
 
-import com.example.week78soal1.container.WeatherContainer
+import com.example.week78soal1.data.container.WeatherContainer
 import com.example.week78soal1.data.service.WeatherApiService
 import com.example.week78soal1.ui.model.WeatherModel
 

@@ -1,4 +1,4 @@
-package com.example.week78soal1.container
+package com.example.week78soal1.data.container
 
 import com.example.week78soal1.data.service.WeatherApiService
 import retrofit2.Retrofit

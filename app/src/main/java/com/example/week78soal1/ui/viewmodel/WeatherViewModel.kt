@@ -2,7 +2,7 @@ package com.example.week78soal1.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.week78soal1.container.WeatherContainer
+import com.example.week78soal1.data.container.WeatherContainer
 import com.example.week78soal1.data.repository.WeatherRepository
 import com.example.week78soal1.ui.model.WeatherModel
 import kotlinx.coroutines.flow.MutableStateFlow
